@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2f7e8d9-b4e4-4e9d-b2a1-b33205b2cdc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigProperties/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigProperties/src/main/java/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigProperties/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigProperties/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigProperties/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/ConfigXML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/src/main/java/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/target/classes/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigXML/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateConnections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseService/src/main/java/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseService/target/classes/House.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigProperty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigProperty/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigProperty/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigProperty/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigXML/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigXML/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigXML/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigXML/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPAConfigXML/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d8GdBuglvQOGTPVaPY0lOhva59" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1150748" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\IdeaProjects\HibernateConnections" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JPAConfigXML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ConfigXML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f7e8d9-b4e4-4e9d-b2a1-b33205b2cdc8" name="Default Changelist" comment="" />
+      <created>1591799391209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591799391209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="241" key="#Project_Structure" timestamp="1591960387158">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="241" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1591960387158" />
+    <state x="765" y="298" key="#com.intellij.ide.util.MemberChooser" timestamp="1591801989471">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="298" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1591801989471" />
+    <state x="697" y="271" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591957624631">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="697" y="271" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591957624631" />
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1592440934070">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1592440934070" />
+    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1592440934070">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1592440934070" />
+    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1592440934069">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1592440934069" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1592440934070">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1592440934070" />
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog" timestamp="1591962786918">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591962786918" />
+    <state x="667" y="341" width="586" height="478" key="find.popup" timestamp="1596366107492">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="667" y="341" width="586" height="478" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1596366107492" />
+    <state x="342" y="284" key="new project wizard" timestamp="1596366203793">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1596366203793" />
+  </component>
+</project>
